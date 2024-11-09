@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Cleaning Results</title>
+</head>
+<body>
+    <h1>Data Cleaning Results</h1>
+
+    <p>Quality Check Passed: {{ quality_check }}</p>
+    <p>Processed file saved with name: {{ filename }}</p>
+
+    <!-- Display Missing Values Comparison -->
+    <h3>Missing Values Comparison</h3>
+    <img src="{{ url_for('static', filename='missing_values_comparison.png') }}" alt="Missing Values Comparison">
+
+    <!-- Display Distribution for Numerical Columns -->
+    {% for column in numerical_columns %}
+        <h3>Distribution of {{ column }}</h3>
+        <img src="{{ url_for('static', filename=column + '_distribution.png') }}" alt="Distribution of {{ column }}">
+    {% endfor %}
+
+    <a href="{{ url_for('index') }}">Go Back</a>
+</body>
+</html>

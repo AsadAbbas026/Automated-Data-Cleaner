@@ -1,0 +1,26 @@
+/* static/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+form {
+    display: inline-block;
+    margin-top: 20px;
+}
+input[type="file"] {
+    margin-bottom: 10px;
+}
+input[type="submit"] {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #45a049;
+}

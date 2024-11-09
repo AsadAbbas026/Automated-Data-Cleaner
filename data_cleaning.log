@@ -1,0 +1,150 @@
+2024-11-09 19:26:11,114 - INFO - Output folder created: cleaned_data
+2024-11-09 19:26:11,123 - INFO - Loaded data from test\laptopData.csv
+2024-11-09 19:26:11,123 - INFO - Formatted column names.
+2024-11-09 19:26:11,126 - INFO - Handled missing values in column 'unnamed:_0' using mean.
+2024-11-09 19:26:11,126 - WARNING - Unsupported strategy 'mean' for categorical data in column 'company'
+2024-11-09 19:26:11,126 - WARNING - Unsupported strategy 'mean' for categorical data in column 'typename'
+2024-11-09 19:26:11,127 - WARNING - Unsupported strategy 'mean' for categorical data in column 'inches'
+2024-11-09 19:26:11,127 - WARNING - Unsupported strategy 'mean' for categorical data in column 'screenresolution'
+2024-11-09 19:26:11,127 - WARNING - Unsupported strategy 'mean' for categorical data in column 'cpu'
+2024-11-09 19:26:11,127 - WARNING - Unsupported strategy 'mean' for categorical data in column 'ram'
+2024-11-09 19:26:11,128 - WARNING - Unsupported strategy 'mean' for categorical data in column 'memory'
+2024-11-09 19:26:11,128 - WARNING - Unsupported strategy 'mean' for categorical data in column 'gpu'
+2024-11-09 19:26:11,128 - WARNING - Unsupported strategy 'mean' for categorical data in column 'opsys'
+2024-11-09 19:26:11,128 - WARNING - Unsupported strategy 'mean' for categorical data in column 'weight'
+2024-11-09 19:26:11,129 - INFO - Handled missing values in column 'price' using mean.
+2024-11-09 19:26:11,133 - INFO - Removed outliers based on Z-score threshold.
+2024-11-09 19:26:11,142 - INFO - Saved cleaned data to cleaned_data\cleaned_laptopData.csv
+2024-11-09 19:26:51,859 - ERROR - Error plotting data comparison: 'Unnamed: 0'
+2024-11-09 19:26:51,859 - INFO - Batch processing completed. Cleaned files are saved in cleaned_data
+2024-11-09 19:34:11,053 - INFO - Loaded data from test\laptopData.csv
+2024-11-09 19:34:11,053 - INFO - Formatted column names.
+2024-11-09 19:34:11,054 - INFO - Handled missing values in column 'unnamed:_0' using mean.
+2024-11-09 19:34:11,055 - WARNING - Unsupported strategy 'mean' for categorical data in column 'company'
+2024-11-09 19:34:11,055 - WARNING - Unsupported strategy 'mean' for categorical data in column 'typename'
+2024-11-09 19:34:11,055 - WARNING - Unsupported strategy 'mean' for categorical data in column 'inches'
+2024-11-09 19:34:11,055 - WARNING - Unsupported strategy 'mean' for categorical data in column 'screenresolution'
+2024-11-09 19:34:11,055 - WARNING - Unsupported strategy 'mean' for categorical data in column 'cpu'
+2024-11-09 19:34:11,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'ram'
+2024-11-09 19:34:11,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'memory'
+2024-11-09 19:34:11,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'gpu'
+2024-11-09 19:34:11,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'opsys'
+2024-11-09 19:34:11,057 - WARNING - Unsupported strategy 'mean' for categorical data in column 'weight'
+2024-11-09 19:34:11,057 - INFO - Handled missing values in column 'price' using mean.
+2024-11-09 19:34:11,060 - INFO - Removed outliers based on Z-score threshold.
+2024-11-09 19:34:11,068 - INFO - Saved cleaned data to cleaned_data\cleaned_laptopData.csv
+2024-11-09 19:34:13,702 - ERROR - Error plotting data comparison: 'Unnamed: 0'
+2024-11-09 19:34:13,703 - INFO - Dataset has missing values. It might need further cleaning.
+2024-11-09 19:34:13,706 - ERROR - Error in dataset quality check: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2024-11-09 19:34:13,706 - INFO - Dataset laptopData.csv might not be usable for modeling.
+2024-11-09 20:14:29,648 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:14:29,648 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 20:14:29,658 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:14:31,787 - WARNING -  * Debugger is active!
+2024-11-09 20:14:31,792 - INFO -  * Debugger PIN: 130-565-532
+2024-11-09 20:16:27,677 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:16:27,678 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 20:16:27,687 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 20:16:29,767 - WARNING -  * Debugger is active!
+2024-11-09 20:16:29,771 - INFO -  * Debugger PIN: 130-565-532
+2024-11-09 21:45:30,909 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:45:30,910 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 21:45:30,921 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 21:45:32,855 - WARNING -  * Debugger is active!
+2024-11-09 21:45:32,859 - INFO -  * Debugger PIN: 130-565-532
+2024-11-09 21:48:32,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:48:32,266 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 21:48:32,277 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 21:48:34,185 - WARNING -  * Debugger is active!
+2024-11-09 21:48:34,189 - INFO -  * Debugger PIN: 130-565-532
+2024-11-09 21:48:51,395 - INFO - 127.0.0.1 - - [09/Nov/2024 21:48:51] "GET / HTTP/1.1" 200 -
+2024-11-09 21:48:51,522 - INFO - 127.0.0.1 - - [09/Nov/2024 21:48:51] "GET /static/styles.css HTTP/1.1" 200 -
+2024-11-09 21:49:15,419 - INFO - Loaded data from test\laptopData.csv
+2024-11-09 21:49:15,419 - INFO - Formatted column names.
+2024-11-09 21:49:15,420 - INFO - Handled missing values in column 'unnamed:_0' using mean.
+2024-11-09 21:49:15,420 - WARNING - Unsupported strategy 'mean' for categorical data in column 'company'
+2024-11-09 21:49:15,420 - WARNING - Unsupported strategy 'mean' for categorical data in column 'typename'
+2024-11-09 21:49:15,420 - WARNING - Unsupported strategy 'mean' for categorical data in column 'inches'
+2024-11-09 21:49:15,421 - WARNING - Unsupported strategy 'mean' for categorical data in column 'screenresolution'
+2024-11-09 21:49:15,421 - WARNING - Unsupported strategy 'mean' for categorical data in column 'cpu'
+2024-11-09 21:49:15,421 - WARNING - Unsupported strategy 'mean' for categorical data in column 'ram'
+2024-11-09 21:49:15,421 - WARNING - Unsupported strategy 'mean' for categorical data in column 'memory'
+2024-11-09 21:49:15,422 - WARNING - Unsupported strategy 'mean' for categorical data in column 'gpu'
+2024-11-09 21:49:15,422 - WARNING - Unsupported strategy 'mean' for categorical data in column 'opsys'
+2024-11-09 21:49:15,422 - WARNING - Unsupported strategy 'mean' for categorical data in column 'weight'
+2024-11-09 21:49:15,423 - INFO - Handled missing values in column 'price' using mean.
+2024-11-09 21:49:15,425 - INFO - Removed outliers based on Z-score threshold.
+2024-11-09 21:49:15,437 - INFO - Saved cleaned data to cleaned_data\cleaned_laptopData.csv
+2024-11-09 21:49:20,562 - ERROR - Error plotting data comparison: 'Unnamed: 0'
+2024-11-09 21:49:20,563 - INFO - Dataset has missing values. It might need further cleaning.
+2024-11-09 21:49:20,568 - ERROR - Error in dataset quality check: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2024-11-09 21:49:20,576 - INFO - 127.0.0.1 - - [09/Nov/2024 21:49:20] "POST /upload HTTP/1.1" 200 -
+2024-11-09 21:49:48,665 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2024-11-09 21:49:48,672 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+2024-11-09 21:49:48,739 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+2024-11-09 21:49:48,786 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-11-09 21:50:10,146 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:50:10,146 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 21:50:10,155 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 21:50:12,091 - WARNING -  * Debugger is active!
+2024-11-09 21:50:12,096 - INFO -  * Debugger PIN: 130-565-532
+2024-11-09 21:50:33,263 - INFO - 127.0.0.1 - - [09/Nov/2024 21:50:33] "GET / HTTP/1.1" 200 -
+2024-11-09 21:50:33,359 - INFO - 127.0.0.1 - - [09/Nov/2024 21:50:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 21:50:38,054 - INFO - Loaded data from test\laptopData.csv
+2024-11-09 21:50:38,054 - INFO - Formatted column names.
+2024-11-09 21:50:38,055 - INFO - Handled missing values in column 'unnamed:_0' using mean.
+2024-11-09 21:50:38,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'company'
+2024-11-09 21:50:38,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'typename'
+2024-11-09 21:50:38,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'inches'
+2024-11-09 21:50:38,056 - WARNING - Unsupported strategy 'mean' for categorical data in column 'screenresolution'
+2024-11-09 21:50:38,057 - WARNING - Unsupported strategy 'mean' for categorical data in column 'cpu'
+2024-11-09 21:50:38,057 - WARNING - Unsupported strategy 'mean' for categorical data in column 'ram'
+2024-11-09 21:50:38,058 - WARNING - Unsupported strategy 'mean' for categorical data in column 'memory'
+2024-11-09 21:50:38,058 - WARNING - Unsupported strategy 'mean' for categorical data in column 'gpu'
+2024-11-09 21:50:38,059 - WARNING - Unsupported strategy 'mean' for categorical data in column 'opsys'
+2024-11-09 21:50:38,059 - WARNING - Unsupported strategy 'mean' for categorical data in column 'weight'
+2024-11-09 21:50:38,060 - INFO - Handled missing values in column 'price' using mean.
+2024-11-09 21:50:38,064 - INFO - Removed outliers based on Z-score threshold.
+2024-11-09 21:50:38,074 - INFO - Saved cleaned data to cleaned_data\cleaned_laptopData.csv
+2024-11-09 21:50:40,368 - ERROR - Error plotting data comparison: 'Unnamed: 0'
+2024-11-09 21:50:40,369 - INFO - Dataset has missing values. It might need further cleaning.
+2024-11-09 21:50:40,373 - ERROR - Error in dataset quality check: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2024-11-09 21:50:40,375 - INFO - 127.0.0.1 - - [09/Nov/2024 21:50:40] "POST /upload HTTP/1.1" 200 -
+2024-11-09 21:53:41,163 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\Desktop\\projects\\Data Science Projects\\Automated DataCleaner\\functions\\processing.py', reloading
+2024-11-09 21:53:41,166 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\Desktop\\projects\\Data Science Projects\\Automated DataCleaner\\functions\\processing.py', reloading
+2024-11-09 21:53:41,167 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\Desktop\\projects\\Data Science Projects\\Automated DataCleaner\\functions\\processing.py', reloading
+2024-11-09 21:53:41,168 - INFO -  * Detected change in 'C:\\Users\\ALRASHIDS\\Desktop\\projects\\Data Science Projects\\Automated DataCleaner\\functions\\processing.py', reloading
+2024-11-09 21:54:19,484 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:54:19,484 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-09 21:54:19,493 - INFO -  * Restarting with watchdog (windowsapi)
+2024-11-09 21:54:21,755 - WARNING -  * Debugger is active!
+2024-11-09 21:54:21,759 - INFO -  * Debugger PIN: 130-565-532
+2024-11-09 21:54:26,582 - INFO - 127.0.0.1 - - [09/Nov/2024 21:54:26] "GET / HTTP/1.1" 200 -
+2024-11-09 21:54:26,679 - INFO - 127.0.0.1 - - [09/Nov/2024 21:54:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-11-09 21:54:30,529 - INFO - Loaded data from test\laptopData.csv
+2024-11-09 21:54:30,530 - INFO - Formatted column names.
+2024-11-09 21:54:30,531 - INFO - Handled missing values in column 'unnamed:_0' using mean.
+2024-11-09 21:54:30,531 - WARNING - Unsupported strategy 'mean' for categorical data in column 'company'
+2024-11-09 21:54:30,531 - WARNING - Unsupported strategy 'mean' for categorical data in column 'typename'
+2024-11-09 21:54:30,532 - WARNING - Unsupported strategy 'mean' for categorical data in column 'inches'
+2024-11-09 21:54:30,532 - WARNING - Unsupported strategy 'mean' for categorical data in column 'screenresolution'
+2024-11-09 21:54:30,532 - WARNING - Unsupported strategy 'mean' for categorical data in column 'cpu'
+2024-11-09 21:54:30,532 - WARNING - Unsupported strategy 'mean' for categorical data in column 'ram'
+2024-11-09 21:54:30,533 - WARNING - Unsupported strategy 'mean' for categorical data in column 'memory'
+2024-11-09 21:54:30,533 - WARNING - Unsupported strategy 'mean' for categorical data in column 'gpu'
+2024-11-09 21:54:30,533 - WARNING - Unsupported strategy 'mean' for categorical data in column 'opsys'
+2024-11-09 21:54:30,534 - WARNING - Unsupported strategy 'mean' for categorical data in column 'weight'
+2024-11-09 21:54:30,534 - INFO - Handled missing values in column 'price' using mean.
+2024-11-09 21:54:30,537 - INFO - Removed outliers based on Z-score threshold.
+2024-11-09 21:54:30,551 - INFO - Saved cleaned data to cleaned_data\cleaned_laptopData.csv
+2024-11-09 21:54:31,122 - ERROR - Error plotting data comparison: 'Unnamed: 0'
+2024-11-09 21:54:31,123 - INFO - Dataset has missing values. It might need further cleaning.
+2024-11-09 21:54:31,126 - ERROR - Error in dataset quality check: Unknown label type: continuous. Maybe you are trying to fit a classifier, which expects discrete classes on a regression target with continuous values.
+2024-11-09 21:54:31,136 - INFO - 127.0.0.1 - - [09/Nov/2024 21:54:31] "POST /upload HTTP/1.1" 200 -
+2024-11-09 21:54:31,177 - INFO - 127.0.0.1 - - [09/Nov/2024 21:54:31] "GET /static/missing_values_comparison.png HTTP/1.1" 200 -
